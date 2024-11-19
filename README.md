@@ -3,10 +3,8 @@
 **A modern, responsive, and animated portfolio website built using HTML, CSS, and JavaScript**  
 
 
-
-## 🚀 Live Demo  
-Check out my portfolio website here: **[Portfolio Live Link][(http://127.0.0.1:5500/index.html#header](https://wnimerta.github.io/my_portfoli_Website/))** 
-
+## 🚀 Live Demo 
+Check out my portfolio website here: **[Portfolio Live Link](#https://wnimerta.github.io/my_portfoli_Website/)** 
 
 
 ## 📜 Overview  
