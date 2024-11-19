@@ -4,7 +4,7 @@
 
 
 ## 🚀 Live Demo 
-Check out my portfolio website here: **[Portfolio Live Link](#https://wnimerta.github.io/my_portfoli_Website/)** 
+Check out my portfolio website here: **[Portfolio Live Link](https://wnimerta.github.io/my_portfoli_Website/)** 
 
 
 ## 📜 Overview  
